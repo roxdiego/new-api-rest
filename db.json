@@ -1,6 +1,5 @@
-{
-  "update_at":[
-        {
+[
+  {
     "id": 1,
     "name": "Soul Stone",
     "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
@@ -105,25 +104,69 @@
     "name": "Fire Stone",
     "image": "https://bafkreief5hcmpcwnryk5scbuwqsnyzshgdqmyhsdrtc6skwk54uozsccl4.ipfs.nftstorage.link/"
   },
-    {
+  {
     "id": 21,
     "name": "Fire Stone",
     "image": "https://bafkreief5hcmpcwnryk5scbuwqsnyzshgdqmyhsdrtc6skwk54uozsccl4.ipfs.nftstorage.link/"
   },
-    {
+  {
     "id": 22,
     "name": "Fire Stone",
     "image": "https://bafkreief5hcmpcwnryk5scbuwqsnyzshgdqmyhsdrtc6skwk54uozsccl4.ipfs.nftstorage.link/"
   },
-    {
+  {
     "id": 23,
     "name": "Fire Stone",
     "image": "https://bafkreief5hcmpcwnryk5scbuwqsnyzshgdqmyhsdrtc6skwk54uozsccl4.ipfs.nftstorage.link/"
   },
-    {
+  {
     "id": 24,
     "name": "Fire Stone",
     "image": "https://bafkreief5hcmpcwnryk5scbuwqsnyzshgdqmyhsdrtc6skwk54uozsccl4.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 25,
+    "name": "Life Stone",
+    "image": "https://bafkreicgv6mnfejv5rbkfpxttpdr6ab3yarnprprx3so235haetuqffl2e.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 26,
+    "name": "Soul Stone",
+    "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 27,
+    "name": "Soul Stone",
+    "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 28,
+    "name": "Soul Stone",
+    "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 29,
+    "name": "Soul Stone",
+    "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 30,
+    "name": "Water Stone",
+    "image": "https://bafkreidemfnzypzetgd6glayg3cbx73aerbmvouuecx4ydpfvruj6ulipy.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 31,
+    "name": "Soul Stone",
+    "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 32,
+    "name": "Fire Stone",
+    "image": "https://bafkreief5hcmpcwnryk5scbuwqsnyzshgdqmyhsdrtc6skwk54uozsccl4.ipfs.nftstorage.link/"
+  },
+  {
+    "id": 33,
+    "name": "Soul Stone",
+    "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
   }
-  ]
-}
+]
