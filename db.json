@@ -1,6 +1,6 @@
 { "update_at":
  [
-  {
+ {
     "id": 1,
     "name": "Soul Stone",
     "image": "https://bafkreihfs2cnt6vgnwja7gaexu2cyxegui2b5idjxx24qjc75ot6ssxnha.ipfs.nftstorage.link/"
@@ -210,10 +210,19 @@
     "name": "Life Stone",
     "image": "https://bafkreicgv6mnfejv5rbkfpxttpdr6ab3yarnprprx3so235haetuqffl2e.ipfs.nftstorage.link/"
   },
-     {
+  {
     "id": 42,
     "name": "Life Stone",
     "image": "https://bafkreicgv6mnfejv5rbkfpxttpdr6ab3yarnprprx3so235haetuqffl2e.ipfs.nftstorage.link/"
+  },
+    {
+    "id": 43,
+    "name": "Life Stone",
+    "image": "https://bafkreicgv6mnfejv5rbkfpxttpdr6ab3yarnprprx3so235haetuqffl2e.ipfs.nftstorage.link/"
+  },
+    {
+    "id": 44,
+    "name": "Life Stone",
+    "image": "https://bafkreicgv6mnfejv5rbkfpxttpdr6ab3yarnprprx3so235haetuqffl2e.ipfs.nftstorage.link/"
   }
-
   ]}
